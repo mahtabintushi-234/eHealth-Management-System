@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<patients>
+    <patient id="001">
+        <name>John Doe</name>
+        <age>30</age>
+        <condition>Diabetes</condition>
+        <appointment>2026-02-05</appointment>
+    </patient>
+    <patient id="002">
+        <name>Jane Smith</name>
+        <age>25</age>
+        <condition>Flu</condition>
+        <appointment>2026-02-06</appointment>
+    </patient>
+</patients>
